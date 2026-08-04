@@ -1,0 +1,9 @@
+body{
+    h1{
+        color: #d8df08;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        text-align: center;
+        background-color: #08b84b;
+    }
+}
